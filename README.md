@@ -3,6 +3,9 @@ Supervisor-AI --- כלי לבדיקת אתרי בנייה המבוסס על בי
 תיאור:
 Supervisor AI – בקרת איכות וויזואלית לאתרי בנייה במודל מקומי: כלי לבדיקת אתרי בנייה המבוסס על בינה מלאכותית ומיועד למפקחי בנייה בישראל. המערכת מנצלת מודל חזותי-שפתי (VLM) המארח באופן מקומי ורץ על מעבדי Apple Silicon (מחשבי Mac Mini) דרך Ollama, כדי לספק בזמן אמת דוחות בטיחות ובקרת איכות (QA) נימוסיים, מעשיים ובעברית.
 
+<img width="505" height="761" alt="image" src="https://github.com/user-attachments/assets/9fb84b2f-a184-4652-a981-f7d9820ea2b1" />
+
+
 # Supervisor-AI---An-AI-powered-site-inspection-tool-designed-for-construction-supervisors-in-Israel
 Supervisor AI - Local Construction Site Vision QA  An AI-powered site inspection tool designed for construction supervisors in Israel. It leverages a locally hosted Vision-Language Model (VLM) running on Apple Silicon (Mac Mini) via Ollama to provide real-time, polite, and actionable safety/QA reports in Hebrew.
 
